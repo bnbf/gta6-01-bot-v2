@@ -17,4 +17,6 @@ python3 -m http.server 8123
 # self-test: http://localhost:8123/?test=1
 ```
 
+---
+
 <sub>Entered on [make.fun](https://make.fun/?ref=bsqaxrmg&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
